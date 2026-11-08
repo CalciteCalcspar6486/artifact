@@ -1,0 +1,31 @@
+{
+  "visual_target": 10,
+  "music_target": 4,
+  "max_per_kind": { "game": 4, "pixel": 4, "other": 4 },
+  "max_per_author": 2,
+  "weights": { "itch.io": 5, "Cleveland Museum of Art": 4, "OC ReMix": 4 },
+  "visual_keywords": {
+    "ruin": 4, "ruins": 4, "forgotten": 4, "megastructure": 5, "colossal": 5,
+    "abandoned": 4, "memory": 4, "memoryscape": 5, "dream": 3, "surreal": 3,
+    "landscape": 2, "architecture": 3, "atmospheric": 2, "light": 2,
+    "alien": 3, "ocean": 2, "isometric": 2, "parallax": 2, "watercolour": 3
+  },
+  "music_keywords": {
+    "ambient": 5, "orchestral": 3, "atmospheric": 4, "melancholy": 4,
+    "dream": 3, "piano": 2, "electronic": 2, "ethereal": 4, "cinematic": 3
+  },
+  "exclude_keywords": ["nsfw", "ai-generated", "generative ai", "asset pack", "sprite pack", "template"],
+  "itch_feeds": [
+    { "kind": "pixel", "url": "https://itch.io/games/top-rated/tag-atmospheric/tag-pixel-art.xml" },
+    { "kind": "game", "url": "https://itch.io/games/top-rated/tag-atmospheric/tag-surreal.xml" },
+    { "kind": "game", "url": "https://itch.io/game-assets/top-rated/tag-concept-art.xml" }
+  ],
+  "museum_queries": [
+    "Piranesi", "mountain landscape", "moonlight",
+    "ruins", "submerged landscape", "nocturne",
+    "japanese waterfall", "fantastic architecture", "abstract landscape",
+    "desert landscape", "tempest", "mountain mist", "winter landscape",
+    "forest landscape", "symbolism", "ocean storm", "volcano", "cloud study"
+  ],
+  "opening_artwork_id": 141639
+}

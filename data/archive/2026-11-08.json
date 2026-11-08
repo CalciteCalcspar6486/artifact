@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-08",
+  "cover": "7ff713fafc791955a984",
+  "items": [
+    {
+      "id": "7ff713fafc791955a984",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1965.233",
+      "title": "Twilight in the Wilderness",
+      "author": "Frederic Edwin Church",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1965.233/1965.233_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/1965.233/1965.233_print.jpg",
+      "width": 900,
+      "height": 562
+    },
+    {
+      "id": "256db657f1902b958beb",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://lsddev.itch.io/21-the-world",
+      "title": "#21: The World",
+      "image": "https://img.itch.zone/aW1hZ2UvMzYwMzcvODA5Mjc3LnBuZw==/original/IgyJC0.png",
+      "author": "lsddev"
+    },
+    {
+      "id": "9b4e1a31b03b4dca46e9",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://mrsuicidesheep.itch.io/sheepy",
+      "title": "Sheepy: A Short Adventure",
+      "image": "https://img.itch.zone/aW1nLzE0ODcxMjc2LmpwZw==/original/a4mjvh.jpg",
+      "author": "MrSuicideSheep"
+    },
+    {
+      "id": "8c668cba9f5d09e589b9",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://sodaraptor.itch.io/hypnagogia1",
+      "title": "Hypnagogia 催眠術",
+      "image": "https://img.itch.zone/aW1nLzQ3MTY1MDIucG5n/original/cLzuWV.png",
+      "author": "sodaraptor"
+    },
+    {
+      "id": "8559a4751bf99e6d1c05",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://anamerzlaya.itch.io/ignore-the-blackbird",
+      "title": "Ignore the blackbird (jam version)",
+      "image": "https://img.itch.zone/aW1nLzI3MTcyMTMxLnBuZw==/original/JZtu42.png",
+      "author": "Ana Merz, mimirforlag, Alios"
+    },
+    {
+      "id": "c6af638be33b9cd68809",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://adarook.itch.io/fallow",
+      "title": "Fallow",
+      "image": "https://img.itch.zone/aW1nLzY0NTExNjUucG5n/original/2erdKY.png",
+      "author": "Ada Rook"
+    },
+    {
+      "id": "00acc6603fcd747619b2",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://caanti.itch.io/i-had-another-dream-about-you-last-night",
+      "title": "i had another dream about you last night",
+      "image": "https://img.itch.zone/aW1nLzQ5NDQxODIucG5n/original/ViPpjD.png",
+      "author": "caanti"
+    },
+    {
+      "id": "909fa815ecf4011bca26",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1978.7",
+      "title": "Landscape with Gentle Peaks",
+      "author": "Kan Tenju",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1978.7/1978.7_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/1978.7/1978.7_print.jpg",
+      "width": 314,
+      "height": 900
+    },
+    {
+      "id": "9eb9449fb78762a04ea7",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://noelcody.itch.io/moss-moss",
+      "title": "Moss Moss",
+      "image": "https://img.itch.zone/aW1nLzI2MTExNDM4LmdpZg==/original/zf17cf.gif",
+      "author": "Noel Cody"
+    },
+    {
+      "id": "e3c9e2b89ff861b5c5a5",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://paranoidcactus.itch.io/ufo",
+      "title": "UFO Swamp Odyssey",
+      "image": "https://img.itch.zone/aW1nLzM1MDc5MzQucG5n/original/yBsvxD.png",
+      "author": "Paranoid Cactus"
+    },
+    {
+      "id": "607665744c47803847ec",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR05085",
+      "title": "Golden Sun: The Lost Age \"Jupiter Descending\"",
+      "image": "https://ocremix.org/files/images/games/gba/7/golden-sun-the-lost-age-gba-title-77748.png",
+      "author": "gravitygauntlet"
+    },
+    {
+      "id": "e516b08899ba79dea333",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR05086",
+      "title": "Chrono Trigger \"The Madness Machine\"",
+      "image": "https://ocremix.org/files/images/games/snes/6/chrono-trigger-snes-title-77585.png",
+      "author": "Argle"
+    },
+    {
+      "id": "f4212021d26bbbfdeaf8",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR05082",
+      "title": "Mario Kart World \"Le fantôme dans la machine du cinéma\"",
+      "image": "https://ocremix.org/files/images/games/swch2/7/mario-kart-world-swch2-title-81471.png",
+      "author": "A.C. Menes, donut, Gamer of the Winds, iCrescendo, Shea's Violin"
+    },
+    {
+      "id": "c0a8baa78d6eb89c7f5d",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR05081",
+      "title": "Dragon Warrior II \"Epic FootSteps\"",
+      "image": "https://ocremix.org/files/images/games/nes/8/dragon-warrior-ii-nes-title-77286.png",
+      "author": "Audiomancer"
+    }
+  ]
+}
