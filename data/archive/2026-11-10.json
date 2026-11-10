@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-10",
+  "cover": "249d06e2cd0d64ee51e2",
+  "items": [
+    {
+      "id": "8a6a8cdd0210354ea7c4",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://han-tani.itch.io/aoa",
+      "title": "All Our Asias",
+      "image": "https://img.itch.zone/aW1hZ2UvMTU2MTUyLzEwMDYzNjYucG5n/original/IKxZQO.png",
+      "author": "Melos Han-Tani"
+    },
+    {
+      "id": "728a7b07d0a94076a38a",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://alex-rassloff.itch.io/barbotine",
+      "title": "Barbotine",
+      "image": "https://img.itch.zone/aW1nLzE1MDc3MDI4LnBuZw==/original/6Qhgkr.png",
+      "author": "Alex Rassloff"
+    },
+    {
+      "id": "8f748b529a4b782d87d2",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1962.279.200.b",
+      "title": "A woman with two children, having abandoned her home, goes into the forest where she encounters a leopard, from a Tuti-nama (Tales of a Parrot): Thirtieth Night",
+      "author": "未知",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1962.279.200.b/1962.279.200.b_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/1962.279.200.b/1962.279.200.b_print.jpg",
+      "width": 596,
+      "height": 900
+    },
+    {
+      "id": "ca47fba670b38d9e6dc1",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://anactualskeleton.itch.io/crawling",
+      "title": "Crawling",
+      "image": "https://img.itch.zone/aW1nLzI3MjM1OTY1LnBuZw==/original/XCau8x.png",
+      "author": "Goblin___warlock"
+    },
+    {
+      "id": "0892c9948d3602246bb1",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://scarfkat.itch.io/dimensional-wanderer",
+      "title": "Dimensional Wanderer",
+      "image": "https://img.itch.zone/aW1nLzQxOTk1NjgucG5n/original/HZLz%2FJ.png",
+      "author": "ScarfKat Productions"
+    },
+    {
+      "id": "4a3337f25ae6a6cb9418",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1989.332",
+      "title": "Rama, Sita, and Lakshmana in the forest",
+      "author": "未知",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1989.332/1989.332_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/1989.332/1989.332_print.jpg",
+      "width": 658,
+      "height": 900
+    },
+    {
+      "id": "f4a82dd63d5f1c81a946",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1986.45",
+      "title": "Winter Landscape",
+      "author": "Yeoseol",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1986.45/1986.45_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/1986.45/1986.45_print.jpg",
+      "width": 513,
+      "height": 893
+    },
+    {
+      "id": "249d06e2cd0d64ee51e2",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1917.1335",
+      "title": "View of Schroon Mountain, Essex County, New York, After a Storm",
+      "author": "Thomas Cole",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1917.1335/1917.1335_web.jpg",
+      "width": 1263,
+      "height": 775
+    },
+    {
+      "id": "f58b58af41bb90074c59",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://chucklefish.itch.io/inmost",
+      "title": "INMOST",
+      "image": "https://img.itch.zone/aW1nLzQ5NDA4MDYuanBn/original/x1Dkfs.jpg",
+      "author": "Chucklefish Games"
+    },
+    {
+      "id": "5bef6ce8aed231d66c2c",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://kulurc.itch.io/seamongrel",
+      "title": "Seamongrel",
+      "image": "https://img.itch.zone/aW1nLzEyNTg2OTI0LnBuZw==/original/sl01t4.png",
+      "author": "kulu"
+    },
+    {
+      "id": "a53b097de94f3fe1c7ab",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03383",
+      "title": "The Legend of Zelda: Majora's Mask \"Dawn of a New Dream\"",
+      "image": "https://ocremix.org/files/images/games/n64/0/legend-of-zelda-majoras-mask-n64-title-81336.png",
+      "author": "Radiowar"
+    },
+    {
+      "id": "968ab03df90af0660be5",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03407",
+      "title": "Bloodborne \"Undone by the Blood\"",
+      "image": "https://ocremix.org/files/images/games/ps4/2/bloodborne-ps4-title-78311.png",
+      "author": "RoeTaKa"
+    },
+    {
+      "id": "146de561979723d155b8",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03408",
+      "title": "Chrono Trigger \"But You're Still Hungry\"",
+      "image": "https://ocremix.org/files/images/games/snes/6/chrono-trigger-snes-title-77585.png",
+      "author": "Marshall Art"
+    },
+    {
+      "id": "e6e2e880057eadd55165",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR05083",
+      "title": "Bloodborne \"Sanguine Sanctum\"",
+      "image": "https://ocremix.org/files/images/games/ps4/2/bloodborne-ps4-title-78311.png",
+      "author": "Fishy, Cyril the Wolf"
+    }
+  ]
+}
