@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-12",
+  "cover": "068cc4b81612f7b30bf2",
+  "items": [
+    {
+      "id": "068cc4b81612f7b30bf2",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://remembrancestudios.itch.io/remembrance",
+      "title": "Remembrance",
+      "image": "https://img.itch.zone/aW1hZ2UvMjE2MTkzLzEyMTY5OTguZ2lm/original/fZT%2FJs.gif",
+      "author": "RemembranceStudios, Matthew von Wilpert, Brady Johnston, Nick Parker, Troy-Martens"
+    },
+    {
+      "id": "adf795004d0c9e4b6e01",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://julian-palacios.itch.io/promesa",
+      "title": "Promesa",
+      "image": "https://img.itch.zone/aW1nLzM5MTYzMDUucG5n/original/YsWRPN.png",
+      "author": "Julián Palacios"
+    },
+    {
+      "id": "891d1f4dde97aad1cdf4",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://deanwzz.itch.io/memory-recoil",
+      "title": "Memory Recoil",
+      "image": "https://img.itch.zone/aW1nLzE4MDA5NDA3LnBuZw==/original/W7IOml.png",
+      "author": "Dean"
+    },
+    {
+      "id": "74caf16a9aa6c7d58f2a",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1934.123",
+      "title": "Ruins by Moonlight",
+      "author": "Mary Altha Nims",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1934.123/1934.123_web.jpg",
+      "width": 1039,
+      "height": 893
+    },
+    {
+      "id": "d6e4c5ed865f238e86de",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://samael-kethill.itch.io/bizarre-dream-bazaar-carpet-edition",
+      "title": "BIZARRE DREAM BAZAAR (Carpet Edition)",
+      "image": "https://img.itch.zone/aW1nLzc5NjE5NjcucG5n/original/BXk8nW.png",
+      "author": "Samael Kethill, finestm8, Moonisland"
+    },
+    {
+      "id": "6836c93bf6b02180c8d8",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://zykoveddy.itch.io/electric-highways",
+      "title": "Electric Highways",
+      "image": "https://img.itch.zone/aW1hZ2UvMzU3MjkvMTU1MjQ4LmdpZg==/original/MkUXei.gif",
+      "author": "Zykoveddy"
+    },
+    {
+      "id": "b827020be4f7f94e5cfa",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1980.10",
+      "title": "Mt. Qingbian",
+      "author": "Dong Qichang",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1980.10/1980.10_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/1980.10/1980.10_print.jpg",
+      "width": 305,
+      "height": 893
+    },
+    {
+      "id": "0c1903eb431ad5d10b43",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/2015.517",
+      "title": "Mountain Market, Clear with Rising Mist",
+      "author": "未知",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/2015.517/2015.517_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/2015.517/2015.517_print.jpg",
+      "width": 475,
+      "height": 900
+    },
+    {
+      "id": "8de6a4aab93e74fe0322",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1959.348",
+      "title": "Buddhist Retreat by Stream and Mountains",
+      "author": "Juran",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1959.348/1959.348_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/1959.348/1959.348_print.jpg",
+      "width": 259,
+      "height": 900
+    },
+    {
+      "id": "c2e7134ca2448c3a56fc",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://tine5.itch.io/the-monster-of-the-bayou",
+      "title": "The Monster of the Bayou",
+      "image": "https://img.itch.zone/aW1nLzMwMjgxMTQ1LmdpZg==/original/RHHa2r.gif",
+      "author": "tine5, indooranimal, Zeonim, Laurie, randomdooodle"
+    },
+    {
+      "id": "7af52c0187a36540d0b6",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03345",
+      "title": "Crash Bandicoot 2: Cortex Strikes Back \"The Wrath of Tiny\"",
+      "image": "https://ocremix.org/files/images/games/ps1/8/crash-bandicoot-2-cortex-strikes-back-ps1-title-78328.png",
+      "author": "Laarx"
+    },
+    {
+      "id": "3434dadb2ad350cfe359",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03343",
+      "title": "Super Castlevania IV \"Dracula's Secretaries\"",
+      "image": "https://ocremix.org/files/images/games/snes/0/super-castlevania-iv-snes-title-1617.gif",
+      "author": "Slimy"
+    },
+    {
+      "id": "0a68117458505ce8e91b",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03344",
+      "title": "BlazBlue: Calamity Trigger \"Jin's Tonic\"",
+      "image": "https://ocremix.org/files/images/games/arc/3/blazblue-calamity-trigger-arc-title-69390.jpg",
+      "author": "OceansAndrew, OverClocked University"
+    },
+    {
+      "id": "bae060023e7e4263ea50",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03339",
+      "title": "Final Fantasy V \"A Silver Light Shines\"",
+      "image": "https://ocremix.org/files/images/games/snes/2/final-fantasy-v-snes-title-81126.png",
+      "author": "DarkeSword"
+    }
+  ]
+}
