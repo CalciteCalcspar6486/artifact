@@ -1,0 +1,146 @@
+{
+  "date": "2026-11-13",
+  "cover": "e6b4913532c7c2d208d2",
+  "items": [
+    {
+      "id": "3cce4e432df0dbe69868",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1979.57",
+      "title": "Ruin by the Sea",
+      "author": "Arnold Böcklin",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1979.57/1979.57_web.jpg",
+      "width": 656,
+      "height": 893
+    },
+    {
+      "id": "673b83f4dc59ea17a870",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1980.218",
+      "title": "Outer Staircase of a Gothic Ruin",
+      "author": "Domenico Quaglio",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1980.218/1980.218_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/1980.218/1980.218_print.jpg",
+      "width": 620,
+      "height": 893
+    },
+    {
+      "id": "f415a85fd7e2f1cd1f92",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1958.472",
+      "title": "Ruins in a Rocky Landscape",
+      "author": "Salvator Rosa",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1958.472/1958.472_web.jpg",
+      "width": 1095,
+      "height": 893
+    },
+    {
+      "id": "e6b4913532c7c2d208d2",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/2023.117",
+      "title": "Landscape with Tharandt Castle Ruins",
+      "author": "Adrian Zingg",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/2023.117/2023.117_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/2023.117/2023.117_print.jpg",
+      "width": 900,
+      "height": 688
+    },
+    {
+      "id": "e4a920f4e5b3f6e1ab85",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://vaguelygalaxy.itch.io/volatile-memory-pharmakos",
+      "title": "Volatile Memory: Pharmakos",
+      "image": "https://img.itch.zone/aW1nLzIxMzEyNjIxLnBuZw==/original/5em6My.png",
+      "author": "VaguelyGalaxy"
+    },
+    {
+      "id": "090448f588a4fbe890d1",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://studio-notes.itch.io/kowloonscurselostreport",
+      "title": "Kowloon's Curse: Lost Report",
+      "image": "https://img.itch.zone/aW1nLzE0ODYzODAzLmpwZw==/original/d3obB5.jpg",
+      "author": "「notes.」"
+    },
+    {
+      "id": "5997fdff30ab19730cda",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://fullmontis.itch.io/fallen-girl",
+      "title": "Fallen Girl",
+      "image": "https://img.itch.zone/aW1nLzE3NDUxODAucG5n/original/w2w0lu.png",
+      "author": "fullmontis"
+    },
+    {
+      "id": "5fab37e2cc0b31b4717d",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://hauntedwindow.itch.io/13gates",
+      "title": "13 Gates: A First Person Dodge 'Em Up",
+      "image": "https://img.itch.zone/aW1hZ2UvMjQ2OTAyLzExNzk3NTYuZ2lm/original/lUAeOn.gif",
+      "author": "Haunted Window"
+    },
+    {
+      "id": "e015c2d705e9e715159b",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://strawberrycongee.itch.io/manifest",
+      "title": "Manifest Your Dream Job Sleep Meditation",
+      "image": "https://img.itch.zone/aW1nLzIzMTMzNjQ3LnBuZw==/original/WtYwk7.png",
+      "author": "strawberrycongee"
+    },
+    {
+      "id": "55a2c574e6afe6174167",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://killingdon.itch.io/rewind-exe",
+      "title": "REWIND.exe",
+      "image": "https://img.itch.zone/aW1nLzMyMTA0MDA5LmdpZg==/original/GbTgH8.gif",
+      "author": "Killingdon"
+    },
+    {
+      "id": "2ddec248de53a1282c77",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03309",
+      "title": "Earthworm Jim 2 \"Glow Worm Jim\"",
+      "image": "https://ocremix.org/files/images/games/gen/9/earthworm-jim-2-gen-title-81109.png",
+      "author": "Mazedude"
+    },
+    {
+      "id": "861b78dd3191f54ca42b",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03312",
+      "title": "Bloodborne \"The Nightmare Ends\"",
+      "image": "https://ocremix.org/files/images/games/ps4/2/bloodborne-ps4-title-78311.png",
+      "author": "RoeTaKa"
+    },
+    {
+      "id": "56732540769fb682bbed",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03308",
+      "title": "The Legend of Zelda: A Link to the Past \"The Imprisoning War\"",
+      "image": "https://ocremix.org/files/images/games/snes/6/legend-of-zelda-a-link-to-the-past-snes-title-81125.png",
+      "author": "SuperTonic64"
+    },
+    {
+      "id": "138867cb595cb08d44df",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03311",
+      "title": "Final Fantasy IV \"Stepping Out\"",
+      "image": "https://ocremix.org/files/images/games/snes/1/final-fantasy-iv-snes-title-80962.png",
+      "author": "Midioker"
+    }
+  ]
+}
