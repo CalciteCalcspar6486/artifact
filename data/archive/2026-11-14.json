@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-14",
+  "cover": "dea63fc37a08ad104d83",
+  "items": [
+    {
+      "id": "ec59568ffd138d0e20ad",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://figglewatts.itch.io/vignettes-the-dream-city",
+      "title": "Vignettes: The Dream City [DEMO]",
+      "image": "https://img.itch.zone/aW1nLzE1MjAzMDc2LnBuZw==/original/39FcjI.png",
+      "author": "Figglewatts"
+    },
+    {
+      "id": "dea63fc37a08ad104d83",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1989.246",
+      "title": "Fantastic Harbor Scene with Architecture and Figures",
+      "author": "Isaac de Moucheron",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1989.246/1989.246_web.jpg",
+      "width": 1263,
+      "height": 857
+    },
+    {
+      "id": "54716d68c786b2c56afe",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://viela.itch.io/remediation-demo",
+      "title": "Remediation: A Dream Emulator *DEMO*",
+      "image": "https://img.itch.zone/aW1nLzQ4NDc3NDQuZ2lm/original/Rkhx8k.gif",
+      "author": "viela"
+    },
+    {
+      "id": "c83c1969194fb0d9a41c",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://portrait-prophecies.itch.io/withering-world",
+      "title": "Withering World",
+      "image": "https://img.itch.zone/aW1nLzI0NjY1NjgyLnBuZw==/original/yBDvNk.png",
+      "author": "Portrait Prophecies"
+    },
+    {
+      "id": "cec654c271033d93710d",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1991.22",
+      "title": "Traveler in a Woodland Landscape",
+      "author": "John Sell Cotman",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1991.22/1991.22_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/1991.22/1991.22_print.jpg",
+      "width": 635,
+      "height": 893
+    },
+    {
+      "id": "da6ba7613e165b856c91",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://stringsonstarlight.itch.io/anyone-online",
+      "title": "Any.One Online",
+      "image": "https://img.itch.zone/aW1nLzkyODY0MDYuZ2lm/original/oFUj5q.gif",
+      "author": "StringsOnStarlight"
+    },
+    {
+      "id": "277680c5174005439abb",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1990.79",
+      "title": "Landscape with Two Monks",
+      "author": "François Edouard Bertin",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1990.79/1990.79_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/1990.79/1990.79_print.jpg",
+      "width": 1049,
+      "height": 893
+    },
+    {
+      "id": "58f0ec79051c3b74882f",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1972.213",
+      "title": "Landscape at Loosduinen",
+      "author": "Piet Mondrian",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1972.213/1972.213_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/1972.213/1972.213_print.jpg",
+      "width": 1229,
+      "height": 893
+    },
+    {
+      "id": "721987d980b467f5572b",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://fricochet.itch.io/chiphop",
+      "title": "[LOFI CHIP-HOP MACHINE]",
+      "image": "https://img.itch.zone/aW1nLzI0MTIzMTAuanBn/original/tAgwUw.jpg",
+      "author": "fricochet"
+    },
+    {
+      "id": "c508110b3e3df05780d6",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://mz-eth.itch.io/sunseeker",
+      "title": "Sunseeker",
+      "image": "https://img.itch.zone/aW1nLzEzNDQwNDU3LnBuZw==/original/lFpAld.png",
+      "author": "mz_eth"
+    },
+    {
+      "id": "93155d243fc98d04ed08",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03279",
+      "title": "Drakengard 3 \"Ignus\"",
+      "image": "https://ocremix.org/files/images/games/ps3/1/drakengard-3-ps3-title-78281.jpg",
+      "author": "sschafi1"
+    },
+    {
+      "id": "e582a2b4e2d2c55c7c64",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03278",
+      "title": "Super Castlevania IV \"Ripples\"",
+      "image": "https://ocremix.org/files/images/games/snes/0/super-castlevania-iv-snes-title-1617.gif",
+      "author": "Pete Lepley"
+    },
+    {
+      "id": "13c9b5b5dc4a7d2db491",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03277",
+      "title": "Chrono Trigger \"stratification\"",
+      "image": "https://ocremix.org/files/images/games/snes/6/chrono-trigger-snes-title-77585.png",
+      "author": "melody"
+    },
+    {
+      "id": "bf2289d0bee4c6f02504",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03276",
+      "title": "Donkey Kong Country 2: Diddy's Kong Quest \"Madcap Magma\"",
+      "image": "https://ocremix.org/files/images/games/snes/8/donkey-kong-country-2-diddys-kong-quest-snes-title-81293.png",
+      "author": "Fxsnowy, Skrypnyk"
+    }
+  ]
+}
