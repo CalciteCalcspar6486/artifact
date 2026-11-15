@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-15",
+  "cover": "4774e8b57407fe0f0039",
+  "items": [
+    {
+      "id": "0ae78640528a7963b127",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://claufiersoft.itch.io/hendecad",
+      "title": "Hendecad",
+      "image": "https://img.itch.zone/aW1nLzMxMDcyOTUuanBn/original/5OV3ny.jpg",
+      "author": "claufiersoft"
+    },
+    {
+      "id": "811362889ff4fcb298b8",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://alienmelon.itch.io/flower",
+      "title": "she danced in the wind like a holographic dream before the world died",
+      "image": "https://img.itch.zone/aW1nLzI1NTQ0NjQ3LmdpZg==/original/qK14b3.gif",
+      "author": "alienmelon"
+    },
+    {
+      "id": "4774e8b57407fe0f0039",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1995.34",
+      "title": "View of Luxor",
+      "author": "John Beasley Greene",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1995.34/1995.34_web.jpg",
+      "width": 1178,
+      "height": 893
+    },
+    {
+      "id": "1340c0e6ec2ceb0d4c71",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1955.37.9",
+      "title": "Landscape Album in Various Styles: Pleasure in a Mountain Brook",
+      "author": "Zha Shibiao",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1955.37.9/1955.37.9_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/1955.37.9/1955.37.9_print.jpg",
+      "width": 900,
+      "height": 679
+    },
+    {
+      "id": "31405815dc4b3f9b5c73",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://digitallyabsurd.itch.io/marola",
+      "title": "Marola: Goddess of Flesh and Fertility (RS 2023)",
+      "image": "https://img.itch.zone/aW1nLzExMjQwNDk5LmpwZw==/original/Brxis4.jpg",
+      "author": "DigitallyAbsurd"
+    },
+    {
+      "id": "4efade67cf44a370be9b",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://fishlicka.itch.io/juice-galaxy",
+      "title": "Juice Galaxy (formerly Juice World)",
+      "image": "https://img.itch.zone/aW1nLzEzNDIzMDA4LnBuZw==/original/ZBQaa2.png",
+      "author": "fishlicka"
+    },
+    {
+      "id": "7f14dc90827e2708c795",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://qwertyprophecy.itch.io/mortholme",
+      "title": "The Dark Queen of Mortholme",
+      "image": "https://img.itch.zone/aW1nLzE4ODYxNjQ0LnBuZw==/original/TynKbA.png",
+      "author": "Mosu"
+    },
+    {
+      "id": "6ca29e51cb95816a7c81",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://digitarium.itch.io/peggys-post",
+      "title": "Peggy's Post",
+      "image": "https://img.itch.zone/aW1nLzEyMDQ2NzA1LnBuZw==/original/ffHQNk.png",
+      "author": "digitarium"
+    },
+    {
+      "id": "b9a987d7794fba4813b8",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1955.37.6",
+      "title": "Landscape Album in Various Styles: Traveling in Autumn Mountains",
+      "author": "Zha Shibiao",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1955.37.6/1955.37.6_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/1955.37.6/1955.37.6_print.jpg",
+      "width": 900,
+      "height": 674
+    },
+    {
+      "id": "7489b46dff106f294226",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://racheldrawsthis.itch.io/cold-front",
+      "title": "Cold Front",
+      "image": "https://img.itch.zone/aW1nLzk2ODczMTIucG5n/original/LlZ58u.png",
+      "author": "racheldrawsthis, STUDIO INVESTIGRAVE"
+    },
+    {
+      "id": "ee7419fa7a3fb367958a",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03251",
+      "title": "Super Castlevania IV \"The Night King's Lament\"",
+      "image": "https://ocremix.org/files/images/games/snes/0/super-castlevania-iv-snes-title-1617.gif",
+      "author": "Sam Dillard"
+    },
+    {
+      "id": "b9fa284fa6a027e9d1e9",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03248",
+      "title": "Super Castlevania IV \"Whipped into Shape\"",
+      "image": "https://ocremix.org/files/images/games/snes/0/super-castlevania-iv-snes-title-1617.gif",
+      "author": "Sbeast"
+    },
+    {
+      "id": "03fa7f9218d26870a9f3",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03244",
+      "title": "The Walking Dead: Season One \"Don't Go\"",
+      "image": "https://ocremix.org/files/images/games/win/0/walking-dead-win-title-77928.png",
+      "author": "RoeTaKa"
+    },
+    {
+      "id": "19ed7429aa5cc0a29c68",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03250",
+      "title": "Super Castlevania IV \"Dark Cellar\"",
+      "image": "https://ocremix.org/files/images/games/snes/0/super-castlevania-iv-snes-title-1617.gif",
+      "author": "Bloodaxe, Existence Zero"
+    }
+  ]
+}
