@@ -48,6 +48,7 @@ svg { display: block; width: 1em; height: 1em; flex: none; }
 .hero-caption > div:first-child { min-width: 0; }
 .hero-caption h2 { margin: 0; font: 400 clamp(1.4rem, 2.9vw, 2.2rem)/1.07 Georgia, serif; overflow-wrap: anywhere; }
 .credit { color: var(--muted); font-size: .82rem; line-height: 1.45; margin: 7px 0 0; overflow-wrap: anywhere; }
+.credit a { text-decoration: underline; text-underline-offset: .16em; }
 .controls { display: flex; justify-content: space-between; align-items: flex-end; gap: 14px; margin-top: clamp(32px, 5vw, 65px); padding-bottom: 14px; border-bottom: 1px solid var(--line); }
 .controls h2, #listening h2 { font-size: clamp(1.22rem, 2.6vw, 1.6rem); font-weight: 500; letter-spacing: .1em; margin: 0; }
 #collection-meta { color: var(--muted); margin: 6px 0 0; font-size: .79rem; }

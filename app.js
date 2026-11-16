@@ -59,6 +59,7 @@ function cleanItem(item) {
   return {
     id: item.id, kind: item.kind, title: label(item.title), author: label(item.author),
     source: label(item.source), license: typeof item.license === "string" ? label(item.license) : "",
+    licenseUrl: https(item.license_url || item.licenseUrl),
     url, image, full: https(item.full) || image, width: dimension(item.width), height: dimension(item.height),
   };
 }
@@ -176,6 +177,16 @@ function credit(item) {
   return `${author}  /  ${item.source}`;
 }
 
+function artworkCredit(item) {
+  const line = element("p", "credit", credit(item));
+  if (item.license && item.licenseUrl) {
+    const link = external({ url: item.licenseUrl });
+    link.textContent = item.license;
+    line.append(" / ", link);
+  }
+  return line;
+}
+
 function showHero(item, date) {
   const hero = $("#hero");
   hero.hidden = !item;
@@ -186,7 +197,7 @@ function showHero(item, date) {
   visual.append(zoomButton(item, true), element("span", "hero-label", `第 ${String(edition).padStart(3, "0")} 期 · 封面`));
   const caption = element("div", "hero-caption");
   const copy = element("div");
-  copy.append(element("h2", "", item.title), element("p", "credit", credit(item)));
+  copy.append(element("h2", "", item.title), artworkCredit(item));
   caption.append(copy, actions(item));
   hero.append(visual, caption);
 }
@@ -194,7 +205,7 @@ function showHero(item, date) {
 function artCard(item) {
   const card = element("article", "card");
   const caption = element("div", "card-caption");
-  caption.append(element("span", "category", kinds[item.kind]), element("h3", "", item.title), element("p", "credit", credit(item)));
+  caption.append(element("span", "category", kinds[item.kind]), element("h3", "", item.title), artworkCredit(item));
   card.append(zoomButton(item), caption, actions(item));
   return card;
 }

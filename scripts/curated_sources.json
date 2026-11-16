@@ -1,0 +1,852 @@
+{
+  "sources": [
+    {
+      "name": "Reviewed pixel environments",
+      "publisher": "OpenGameArt.org",
+      "url": "https://opengameart.org/users/ansimuz",
+      "type": "artist selection",
+      "areas": [
+        "pixel"
+      ],
+      "access": "reviewed_pages",
+      "enabled": true,
+      "verified": true,
+      "priority": 95,
+      "max_per_issue": 4,
+      "page_host": "opengameart.org",
+      "image_host": "opengameart.org",
+      "restrictions": "Only individually reviewed finished scene previews with CC0 or CC BY; source robots.txt and artwork license checked.",
+      "works": [
+        {
+          "title": "Magic Cliffs Environment",
+          "author": "ansimuz",
+          "url": "https://opengameart.org/content/magic-cliffs-environment",
+          "image": "https://opengameart.org/sites/default/files/magic-cliffs-PREVIEWx1.png",
+          "license": "CC0",
+          "work_type": "pixel environment",
+          "theme": "pixel",
+          "discovery": "familiar",
+          "tags": [
+            "pixel environment",
+            "fantasy environment",
+            "pixel lighting",
+            "parallax background"
+          ]
+        },
+        {
+          "title": "Forest Background",
+          "author": "ansimuz",
+          "url": "https://opengameart.org/content/forest-background",
+          "image": "https://opengameart.org/sites/default/files/parallax-forest-preview.png",
+          "license": "CC0",
+          "work_type": "pixel environment",
+          "theme": "pixel",
+          "discovery": "familiar",
+          "tags": [
+            "pixel landscape",
+            "parallax background",
+            "layered environment"
+          ]
+        },
+        {
+          "title": "Urban Landscape",
+          "author": "ansimuz",
+          "url": "https://opengameart.org/content/urban-landscape",
+          "image": "https://opengameart.org/sites/default/files/urban-landscape-background-Preview.png",
+          "license": "CC0",
+          "work_type": "pixel environment",
+          "theme": "pixel",
+          "discovery": "adjacent",
+          "tags": [
+            "pixel landscape",
+            "pixel lighting",
+            "parallax background"
+          ]
+        },
+        {
+          "title": "Industrial Parallax Background",
+          "author": "ansimuz",
+          "url": "https://opengameart.org/content/industrial-parallax-background",
+          "image": "https://opengameart.org/sites/default/files/parallax-industrial-anim_x2_0.gif",
+          "license": "CC0",
+          "work_type": "pixel environment",
+          "theme": "pixel",
+          "discovery": "familiar",
+          "tags": [
+            "pixel art animation",
+            "parallax background",
+            "industrial megastructure",
+            "gigantic machinery"
+          ]
+        },
+        {
+          "title": "Parallax background forest pixel art",
+          "author": "MatiasVME",
+          "url": "https://opengameart.org/content/parallax-background-forest-pixel-art",
+          "image": "https://opengameart.org/sites/default/files/parallax_background_forest.png",
+          "license": "CC0",
+          "work_type": "pixel environment",
+          "theme": "pixel",
+          "discovery": "adjacent",
+          "tags": [
+            "pixel landscape",
+            "layered environment",
+            "parallax background"
+          ]
+        },
+        {
+          "title": "Mountain at Dusk Background",
+          "author": "ansimuz",
+          "url": "https://opengameart.org/content/mountain-at-dusk-background",
+          "image": "https://opengameart.org/sites/default/files/parallax-mountain-animX1.gif",
+          "license": "CC0",
+          "work_type": "pixel environment",
+          "theme": "pixel",
+          "discovery": "adjacent",
+          "tags": [
+            "pixel art animation",
+            "pixel lighting",
+            "sublime landscape"
+          ]
+        },
+        {
+          "title": "Underwater Fantasy",
+          "author": "ansimuz",
+          "url": "https://opengameart.org/content/underwater-fantasy",
+          "image": "https://opengameart.org/sites/default/files/underwater-fantasy-preview.png",
+          "license": "CC BY 3.0",
+          "work_type": "pixel environment",
+          "theme": "pixel",
+          "discovery": "explore",
+          "tags": [
+            "pixel environment",
+            "fantasy environment",
+            "ethereal fantasy"
+          ]
+        },
+        {
+          "title": "pixel art forest",
+          "author": "tosuto",
+          "url": "https://opengameart.org/content/pixel-art-forest",
+          "image": "https://opengameart.org/sites/default/files/preview_785.png",
+          "license": "CC BY 4.0",
+          "work_type": "pixel environment",
+          "theme": "pixel",
+          "discovery": "adjacent",
+          "tags": [
+            "pixel art illustration",
+            "pixel environment",
+            "limited color palette"
+          ]
+        },
+        {
+          "title": "Ruined City Background",
+          "author": "TokyoGeisha",
+          "url": "https://opengameart.org/content/ruined-city-background",
+          "image": "https://opengameart.org/sites/default/files/Ruined%20City%20Background%20Preview.png",
+          "license": "CC0",
+          "work_type": "pixel environment",
+          "theme": "pixel",
+          "discovery": "familiar",
+          "tags": [
+            "pixel background",
+            "abandoned city",
+            "post-apocalyptic landscape"
+          ]
+        },
+        {
+          "title": "Cyberpunk Street Environment",
+          "author": "ansimuz",
+          "url": "https://opengameart.org/content/cyberpunk-street-environment",
+          "image": "https://opengameart.org/sites/default/files/cyberpunk-street.png",
+          "license": "CC BY 3.0",
+          "work_type": "pixel environment",
+          "theme": "pixel",
+          "discovery": "familiar",
+          "tags": [
+            "pixel environment",
+            "parallax background",
+            "retro futurism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Indie game concept sheets",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Video_game_concept_art",
+      "type": "curated concept collection",
+      "areas": [
+        "environment",
+        "character"
+      ],
+      "access": "reviewed_pages",
+      "enabled": true,
+      "verified": true,
+      "priority": 100,
+      "max_per_issue": 3,
+      "page_host": "commons.wikimedia.org",
+      "image_host": "upload.wikimedia.org",
+      "restrictions": "Individual file-page licenses; preserve credit, original link and CC license; use the original image.",
+      "works": [
+        {
+          "title": "Alto's Adventure - Landscape Concept Art",
+          "author": "Ryan Cash of Snowman",
+          "url": "https://commons.wikimedia.org/wiki/File:Alto%27s_Adventure_concept_art_-_01_Landscapes.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alto%27s_Adventure_concept_art_-_01_Landscapes.png",
+          "license": "CC BY-SA 3.0",
+          "work_type": "game concept art",
+          "theme": "environment",
+          "discovery": "familiar",
+          "tags": [
+            "environment concept art",
+            "background painting",
+            "sublime landscape",
+            "color harmony"
+          ]
+        },
+        {
+          "title": "Alto's Adventure - Character Concept Art",
+          "author": "Ryan Cash of Snowman",
+          "url": "https://commons.wikimedia.org/wiki/File:Alto%27s_Adventure_concept_art_-_03_Characters.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Alto%27s_Adventure_concept_art_-_03_Characters.png",
+          "license": "CC BY-SA 3.0",
+          "work_type": "game concept art",
+          "theme": "character",
+          "discovery": "adjacent",
+          "tags": [
+            "character concept art",
+            "character design",
+            "stylized character"
+          ]
+        },
+        {
+          "title": "Shelter - Tree Concept Art 1",
+          "author": "Might and Delight",
+          "url": "https://commons.wikimedia.org/wiki/File:Shelter_-_Tree_Concept_Art_1.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Shelter_-_Tree_Concept_Art_1.jpg",
+          "license": "CC BY-SA 3.0",
+          "work_type": "game concept art",
+          "theme": "environment",
+          "discovery": "adjacent",
+          "tags": [
+            "environment concept art",
+            "stylized environment",
+            "mixed media illustration"
+          ]
+        },
+        {
+          "title": "Shelter - Tree Concept Art 2",
+          "author": "Might and Delight",
+          "url": "https://commons.wikimedia.org/wiki/File:Shelter_-_Tree_Concept_Art_2.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Shelter_-_Tree_Concept_Art_2.jpg",
+          "license": "CC BY-SA 3.0",
+          "work_type": "game concept art",
+          "theme": "environment",
+          "discovery": "adjacent",
+          "tags": [
+            "environment design",
+            "stylized environment",
+            "expressive color"
+          ]
+        },
+        {
+          "title": "Pid - Crook Concept Art",
+          "author": "Might and Delight",
+          "url": "https://commons.wikimedia.org/wiki/File:Pid_-_Crook_Concept_Art.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Pid_-_Crook_Concept_Art.jpg",
+          "license": "CC BY-SA 3.0",
+          "work_type": "game concept art",
+          "theme": "character",
+          "discovery": "explore",
+          "tags": [
+            "character concept art",
+            "stylized character",
+            "surreal character"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "David Revoy - Sintel",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Concept_art_by_David_Revoy_for_Sintel",
+      "type": "professional production portfolio",
+      "areas": [
+        "worlds",
+        "environment",
+        "character"
+      ],
+      "access": "reviewed_pages",
+      "enabled": true,
+      "verified": true,
+      "priority": 98,
+      "max_per_issue": 2,
+      "page_host": "commons.wikimedia.org",
+      "image_host": "upload.wikimedia.org",
+      "restrictions": "Individual file-page licenses; preserve credit, original link and CC license; use the original image.",
+      "works": [
+        {
+          "title": "Sintel - Cave Door",
+          "author": "David Revoy / Blender Foundation",
+          "url": "https://commons.wikimedia.org/wiki/File:Environments-19-cave-door.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Environments-19-cave-door.png",
+          "license": "CC BY 3.0",
+          "work_type": "production concept art",
+          "theme": "worlds",
+          "discovery": "familiar",
+          "tags": [
+            "environment concept art",
+            "sense of scale",
+            "ancient ruins",
+            "dramatic lighting"
+          ]
+        },
+        {
+          "title": "Sintel - Ishtar, Environment Study 1",
+          "author": "David Revoy / Blender Foundation",
+          "url": "https://commons.wikimedia.org/wiki/File:Environments-05-Ishtar-1.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Environments-05-Ishtar-1.png",
+          "license": "CC BY 3.0",
+          "work_type": "production concept art",
+          "theme": "environment",
+          "discovery": "familiar",
+          "tags": [
+            "environment concept art",
+            "fantasy environment",
+            "architectural concept art"
+          ]
+        },
+        {
+          "title": "Sintel - Ishtar Bird",
+          "author": "David Revoy / Blender Foundation",
+          "url": "https://commons.wikimedia.org/wiki/File:Creature_ishtar-bird.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Creature_ishtar-bird.png",
+          "license": "CC BY 3.0",
+          "work_type": "production concept art",
+          "theme": "character",
+          "discovery": "adjacent",
+          "tags": [
+            "creature design",
+            "character illustration"
+          ]
+        },
+        {
+          "title": "Sintel - Bridge, Medieval Fantasy City",
+          "author": "David Revoy / Blender Foundation",
+          "url": "https://commons.wikimedia.org/wiki/File:Bridge-medieval-fantasy-city.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bridge-medieval-fantasy-city.png",
+          "license": "CC BY 3.0",
+          "work_type": "production concept art",
+          "theme": "worlds",
+          "discovery": "familiar",
+          "tags": [
+            "monumental architecture",
+            "sense of scale",
+            "architectural concept art"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "David Revoy - illustration and concept art",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/David_Revoy",
+      "type": "artist portfolio",
+      "areas": [
+        "experimental",
+        "environment"
+      ],
+      "access": "reviewed_pages",
+      "enabled": true,
+      "verified": true,
+      "priority": 96,
+      "max_per_issue": 2,
+      "page_host": "commons.wikimedia.org",
+      "image_host": "upload.wikimedia.org",
+      "restrictions": "Individual file-page licenses; preserve credit, original link and CC license; use the original image.",
+      "works": [
+        {
+          "title": "Alice in Wonderland",
+          "author": "David Revoy",
+          "url": "https://commons.wikimedia.org/wiki/File:Alice-in-Wonderland_by-David-Revoy_2010-07-21.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Alice-in-Wonderland_by-David-Revoy_2010-07-21.jpg",
+          "license": "CC BY 4.0",
+          "work_type": "digital illustration",
+          "theme": "experimental",
+          "discovery": "explore",
+          "tags": [
+            "experimental illustration",
+            "surreal composition",
+            "magical realism"
+          ]
+        },
+        {
+          "title": "Save Point - Concept Art for a Fictive Video Game",
+          "author": "David Revoy",
+          "url": "https://commons.wikimedia.org/wiki/File:2023-03-30_Concept-art-for-a-fictive-video-game-Save-Point_by-David-Revoy.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/2023-03-30_Concept-art-for-a-fictive-video-game-Save-Point_by-David-Revoy.jpg",
+          "license": "CC BY 4.0",
+          "work_type": "game concept art",
+          "theme": "environment",
+          "discovery": "familiar",
+          "tags": [
+            "game concept art",
+            "worldbuilding art",
+            "environmental storytelling"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reviewed pixel illustrations",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Art_at_pixel_scale",
+      "type": "individually reviewed artworks",
+      "areas": [
+        "pixel"
+      ],
+      "access": "reviewed_pages",
+      "enabled": true,
+      "verified": true,
+      "priority": 85,
+      "max_per_issue": 2,
+      "page_host": "commons.wikimedia.org",
+      "image_host": "upload.wikimedia.org",
+      "restrictions": "Individual file-page licenses; preserve credit, original link and CC license; use the original image.",
+      "works": [
+        {
+          "title": "Landscape pixel art",
+          "author": "Fahmirayan",
+          "url": "https://commons.wikimedia.org/wiki/File:Landscape_pixel_art.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Landscape_pixel_art.png",
+          "license": "CC BY-SA 4.0",
+          "work_type": "pixel illustration",
+          "theme": "pixel",
+          "discovery": "adjacent",
+          "tags": [
+            "pixel landscape",
+            "pixel art illustration",
+            "limited color palette"
+          ]
+        },
+        {
+          "title": "Njalila Nasuta Pixelart",
+          "author": "SamuuBorealis",
+          "url": "https://commons.wikimedia.org/wiki/File:Njalila_Nasuta_Pixelart_By_%40samuuborealis_In_Bluesky.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Njalila_Nasuta_Pixelart_By_%40samuuborealis_In_Bluesky.jpg",
+          "license": "CC0",
+          "work_type": "pixel illustration",
+          "theme": "pixel",
+          "discovery": "explore",
+          "tags": [
+            "pixel art illustration",
+            "creature design"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cleveland Open Access - visual research themes",
+      "publisher": "Cleveland Museum of Art",
+      "url": "https://openaccess-api.clevelandart.org/",
+      "type": "museum thematic selection",
+      "areas": [
+        "worlds",
+        "experimental"
+      ],
+      "access": "cleveland_api",
+      "enabled": true,
+      "verified": true,
+      "priority": 70,
+      "max_per_issue": 4,
+      "page_host": "clevelandart.org",
+      "image_host": "openaccess-cdn.clevelandart.org",
+      "restrictions": "Official free API; only CC0 artworks, named creators and topic-specific records.",
+      "endpoint": "https://openaccess-api.clevelandart.org/api/artworks/",
+      "topics": [
+        {
+          "query": "ruins",
+          "theme": "worlds",
+          "discovery": "familiar",
+          "evidence": [
+            "ruin",
+            "ruins",
+            "ruined",
+            "ancient architecture"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "Piranesi",
+          "theme": "worlds",
+          "discovery": "familiar",
+          "evidence": [
+            "piranesi",
+            "prison",
+            "prisons",
+            "carceri",
+            "ruins"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "abstraction",
+          "theme": "experimental",
+          "discovery": "explore",
+          "evidence": [
+            "abstract",
+            "abstraction",
+            "nonobjective",
+            "non-objective"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "waterfall",
+          "theme": "worlds",
+          "discovery": "adjacent",
+          "evidence": [
+            "waterfall",
+            "waterfalls",
+            "cascade"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "nocturne",
+          "theme": "worlds",
+          "discovery": "familiar",
+          "evidence": [
+            "nocturne",
+            "night",
+            "moonlight"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "woodblock landscape",
+          "theme": "experimental",
+          "discovery": "adjacent",
+          "evidence": [
+            "woodblock",
+            "ukiyo",
+            "landscape"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "mountain landscape",
+          "theme": "worlds",
+          "discovery": "familiar",
+          "evidence": [
+            "mountain",
+            "mountains",
+            "peak",
+            "peaks"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "ink landscape",
+          "theme": "experimental",
+          "discovery": "explore",
+          "evidence": [
+            "ink on paper",
+            "ink on silk",
+            "ink wash"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "garden",
+          "theme": "worlds",
+          "discovery": "adjacent",
+          "evidence": [
+            "garden",
+            "gardens",
+            "orchard"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "storm",
+          "theme": "worlds",
+          "discovery": "familiar",
+          "evidence": [
+            "storm",
+            "tempest",
+            "lightning"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "collage",
+          "theme": "experimental",
+          "discovery": "explore",
+          "evidence": [
+            "collage",
+            "cut paper",
+            "papier colle"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "woodcut",
+          "theme": "experimental",
+          "discovery": "explore",
+          "evidence": [
+            "woodcut",
+            "woodblock"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "desert",
+          "theme": "worlds",
+          "discovery": "adjacent",
+          "evidence": [
+            "desert",
+            "dunes",
+            "oasis"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "fantasy",
+          "theme": "experimental",
+          "discovery": "explore",
+          "evidence": [
+            "fantasy",
+            "fantastic",
+            "symbolist"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "seascape",
+          "theme": "worlds",
+          "discovery": "familiar",
+          "evidence": [
+            "seascape",
+            "wave",
+            "waves",
+            "coast",
+            "coastline",
+            "sea coast",
+            "shipwreck"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "colour woodcut",
+          "theme": "experimental",
+          "discovery": "adjacent",
+          "evidence": [
+            "color woodcut",
+            "colour woodcut",
+            "color woodblock"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "architectural drawing",
+          "theme": "worlds",
+          "discovery": "familiar",
+          "evidence": [
+            "architecture",
+            "architectural",
+            "monument",
+            "monumental"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        },
+        {
+          "query": "pastel",
+          "theme": "experimental",
+          "discovery": "explore",
+          "evidence": [
+            "pastel"
+          ],
+          "artwork_types": [
+            "Painting",
+            "Print",
+            "Drawing",
+            "Photograph"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "OC ReMix editorial releases",
+      "publisher": "OC ReMix",
+      "url": "https://ocremix.org/info/Feeds",
+      "type": "editorially screened music",
+      "areas": [
+        "music"
+      ],
+      "access": "ocremix_rss",
+      "enabled": true,
+      "verified": true,
+      "priority": 90,
+      "max_per_issue": 4,
+      "page_host": "ocremix.org",
+      "image_host": "ocremix.org",
+      "restrictions": "Use public RSS and permitted catalog pages; use the track page's public share image and link to playback. Never download audio.",
+      "endpoint": "https://ocremix.org/feeds/ten20/"
+    },
+    {
+      "name": "Pixel Art - Backgrounds",
+      "publisher": "OpenGameArt.org",
+      "url": "https://opengameart.org/content/06-pixel-art-backgrounds",
+      "type": "community-curated artwork collection",
+      "access": "oga_collection",
+      "enabled": true,
+      "verified": true,
+      "priority": 88,
+      "max_per_issue": 2,
+      "areas": [
+        "pixel"
+      ],
+      "page_host": "opengameart.org",
+      "image_host": "opengameart.org",
+      "work_type": "pixel environment",
+      "theme": "pixel",
+      "discovery": "adjacent",
+      "restrictions": "Only allow 2D works with pixel tags and standalone scene metadata; original preview and explicit license required."
+    },
+    {
+      "name": "Ryzom - environmental concept art",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Ryzom_environmental_concept_art",
+      "type": "game production archive",
+      "access": "commons_collection",
+      "enabled": true,
+      "verified": true,
+      "priority": 88,
+      "max_per_issue": 2,
+      "areas": [
+        "environment"
+      ],
+      "page_host": "commons.wikimedia.org",
+      "image_host": "upload.wikimedia.org",
+      "work_type": "game concept art",
+      "theme": "environment",
+      "discovery": "familiar",
+      "restrictions": "Only individually attributed Ryzom concept files in the stated category; confirm file-page CC license and show the original.",
+      "file_path_pattern": "/wiki/File:Ryzom_environmental_concept_art_\\d{3}\\.jpg",
+      "author_credits": [
+        "Ryzom"
+      ]
+    },
+    {
+      "name": "Ryzom - flora concepts",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Ryzom_concept_art_of_flora",
+      "type": "game production archive",
+      "access": "commons_collection",
+      "enabled": true,
+      "verified": true,
+      "priority": 88,
+      "max_per_issue": 2,
+      "areas": [
+        "character"
+      ],
+      "page_host": "commons.wikimedia.org",
+      "image_host": "upload.wikimedia.org",
+      "work_type": "game concept art",
+      "theme": "character",
+      "discovery": "explore",
+      "restrictions": "Only individually attributed Ryzom concept files in the stated category; confirm file-page CC license and show the original.",
+      "file_path_pattern": "/wiki/File:Ryzom_flora_concept_art_\\d+\\.jpg",
+      "author_credits": [
+        "Ryzom"
+      ]
+    }
+  ]
+}
