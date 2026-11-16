@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-16",
+  "cover": "6d2bda6d12cf49d119b5",
+  "items": [
+    {
+      "id": "c4d792e498fe6d7bfee9",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://ampongabendanitte.itch.io/wonderful-purgatory",
+      "title": "Wonderful Purgatory",
+      "image": "https://img.itch.zone/aW1nLzIxNzcxMjE0LnBuZw==/original/0NYp2D.png",
+      "author": "ampongabendanitte"
+    },
+    {
+      "id": "6d2bda6d12cf49d119b5",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1987.40.2",
+      "title": "Winter and Summer Flowers",
+      "author": "Kaihō Yūshō",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1987.40.2/1987.40.2_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/1987.40.2/1987.40.2_print.jpg",
+      "width": 900,
+      "height": 417
+    },
+    {
+      "id": "b4d702fc22d09aec5210",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1987.40.1",
+      "title": "Winter and Summer Flowers",
+      "author": "Kaihō Yūshō",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1987.40.1/1987.40.1_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/1987.40.1/1987.40.1_print.jpg",
+      "width": 900,
+      "height": 416
+    },
+    {
+      "id": "d118f78b8b8c339e4ee9",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1989.29",
+      "title": "Road in the Forest",
+      "author": "Eugène Cuvelier",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/1989.29/1989.29_web.jpg",
+      "width": 680,
+      "height": 893
+    },
+    {
+      "id": "5ffe0e35da684bfdcafc",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/2019.16",
+      "title": "Wooded Landscape",
+      "author": "Anthonie Waterloo",
+      "license": "CC0",
+      "image": "https://openaccess-cdn.clevelandart.org/2019.16/2019.16_web.jpg",
+      "full": "https://openaccess-cdn.clevelandart.org/2019.16/2019.16_print.jpg",
+      "width": 900,
+      "height": 561
+    },
+    {
+      "id": "182bfeacfc8c791205e9",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://soliles.itch.io/trust-the-system",
+      "title": "Trust the System",
+      "image": "https://img.itch.zone/aW1nLzI5NzM2MzExLmdpZg==/original/czqJsg.gif",
+      "author": "tabouret"
+    },
+    {
+      "id": "5da01ebafd8bdf989ebf",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://matajuegos.itch.io/atuel",
+      "title": "Atuel",
+      "image": "https://img.itch.zone/aW1nLzEwMDMwODIyLmpwZw==/original/AZKdRh.jpg",
+      "author": "Matajuegos, PfQ~, santiagofranz, Giselle \"Yiyo\" L"
+    },
+    {
+      "id": "69c0f45f1c1309654231",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://octavinavarro.itch.io/midnight-scenes-the-goodbye-note",
+      "title": "Midnight Scenes: The Goodbye Note",
+      "image": "https://img.itch.zone/aW1nLzE1NjQ1MjUucG5n/original/tz9LSN.png",
+      "author": "Octavi Navarro"
+    },
+    {
+      "id": "8649d235f9db5e461c2b",
+      "kind": "game",
+      "source": "itch.io",
+      "url": "https://melancholy-marionette.itch.io/the-shuddering",
+      "title": "The Shuddering",
+      "image": "https://img.itch.zone/aW1nLzE2ODg4NzIzLmdpZg==/original/ZJGOW0.gif",
+      "author": "Melancholy Marionette"
+    },
+    {
+      "id": "ea8fa51c1abce8cb9859",
+      "kind": "pixel",
+      "source": "itch.io",
+      "url": "https://spelkollektivet.itch.io/syntaxia",
+      "title": "SYNTAXIA",
+      "image": "https://img.itch.zone/aW1nLzE5MTQ0MTIyLmdpZg==/original/SCDK73.gif",
+      "author": "Spelkollektivet, CANCAT Games"
+    },
+    {
+      "id": "7f2ab6f5debfad07b5e1",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03219",
+      "title": "Sonic the Hedgehog \"Sailing on Lava\"",
+      "image": "https://ocremix.org/files/images/games/gen/2/sonic-the-hedgehog-gen-title-81229.png",
+      "author": "Sir_NutS"
+    },
+    {
+      "id": "ceb231303afff6e60fee",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03218",
+      "title": "Sonic the Hedgehog \"A Blue-Green Color\"",
+      "image": "https://ocremix.org/files/images/games/gen/2/sonic-the-hedgehog-gen-title-81229.png",
+      "author": "metaphist"
+    },
+    {
+      "id": "fb076b2040738c60cd55",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03217",
+      "title": "Super Mario Kart \"happy breakfast\"",
+      "image": "https://ocremix.org/files/images/games/snes/9/super-mario-kart-snes-title-73943.png",
+      "author": "posu yan"
+    },
+    {
+      "id": "b8dd78dd9a82f962621c",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03215",
+      "title": "Super Mario 64 \"Toadstool's Groove\"",
+      "image": "https://ocremix.org/files/images/games/n64/9/super-mario-64-n64-title-81065.png",
+      "author": "Tetrimino"
+    }
+  ]
+}
