@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-17",
+  "cover": "2dfb995bfafd5a6133ab",
+  "items": [
+    {
+      "id": "2dfb995bfafd5a6133ab",
+      "kind": "pixel",
+      "source": "OpenGameArt.org",
+      "url": "https://opengameart.org/content/magic-cliffs-environment",
+      "title": "Magic Cliffs Environment",
+      "author": "ansimuz",
+      "image": "https://opengameart.org/sites/default/files/magic-cliffs-PREVIEWx1.png",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "1856b6214dd81f27e5f6",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Shelter_-_Tree_Concept_Art_2.jpg",
+      "title": "Shelter - Tree Concept Art 2",
+      "author": "Might and Delight",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Shelter_-_Tree_Concept_Art_2.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "1f8cf6e903c304035319",
+      "kind": "other",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Environments-19-cave-door.png",
+      "title": "Sintel - Cave Door",
+      "author": "David Revoy / Blender Foundation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Environments-19-cave-door.png",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+      "id": "08805586a770656efc76",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Pid_-_Crook_Concept_Art.jpg",
+      "title": "Pid - Crook Concept Art",
+      "author": "Might and Delight",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Pid_-_Crook_Concept_Art.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "7d6bd88c249347a58d3d",
+      "kind": "pixel",
+      "source": "OpenGameArt.org",
+      "url": "https://opengameart.org/content/industrial-parallax-background",
+      "title": "Industrial Parallax Background",
+      "author": "ansimuz",
+      "image": "https://opengameart.org/sites/default/files/parallax-industrial-anim_x2_0.gif",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "ed13870f83e6856c5da9",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1933.444",
+      "title": "Nave Nave Fenua (Fragrant Isle)",
+      "author": "Paul Gauguin",
+      "image": "https://openaccess-cdn.clevelandart.org/1933.444/1933.444_web.jpg",
+      "width": 525,
+      "height": 893,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "067f79c62c0990fd13e6",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Alto%27s_Adventure_concept_art_-_01_Landscapes.png",
+      "title": "Alto's Adventure - Landscape Concept Art",
+      "author": "Ryan Cash of Snowman",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alto%27s_Adventure_concept_art_-_01_Landscapes.png",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "73dea246000a46dbe62c",
+      "kind": "pixel",
+      "source": "OpenGameArt.org",
+      "url": "https://opengameart.org/content/ruined-city-background",
+      "title": "Ruined City Background",
+      "author": "TokyoGeisha",
+      "image": "https://opengameart.org/sites/default/files/Ruined%20City%20Background%20Preview.png",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "edba3fc60eaaed4108c1",
+      "kind": "other",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Bridge-medieval-fantasy-city.png",
+      "title": "Sintel - Bridge, Medieval Fantasy City",
+      "author": "David Revoy / Blender Foundation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bridge-medieval-fantasy-city.png",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+      "id": "4d2eb51b15891bc5987e",
+      "kind": "pixel",
+      "source": "OpenGameArt.org",
+      "url": "https://opengameart.org/content/parallax-background-forest-pixel-art",
+      "title": "Parallax background forest pixel art",
+      "author": "MatiasVME",
+      "image": "https://opengameart.org/sites/default/files/parallax_background_forest.png",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ]
+}
