@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-18",
+  "cover": "b4999a194001c1fa6790",
+  "items": [
+    {
+      "id": "7c14deb1b7d3cd9bb91f",
+      "kind": "pixel",
+      "source": "OpenGameArt.org",
+      "url": "https://opengameart.org/content/forest-background",
+      "title": "Forest Background",
+      "author": "ansimuz",
+      "image": "https://opengameart.org/sites/default/files/parallax-forest-preview.png",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "57b3b23887451a16d03c",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Shelter_-_Tree_Concept_Art_1.jpg",
+      "title": "Shelter - Tree Concept Art 1",
+      "author": "Might and Delight",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Shelter_-_Tree_Concept_Art_1.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "34922226832867c7fde5",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1981.13",
+      "title": "Ruins of an Ancient City",
+      "author": "John Martin",
+      "image": "https://openaccess-cdn.clevelandart.org/1981.13/1981.13_web.jpg",
+      "width": 1111,
+      "height": 893,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "f675321cf183707dd9bc",
+      "kind": "other",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Alice-in-Wonderland_by-David-Revoy_2010-07-21.jpg",
+      "title": "Alice in Wonderland",
+      "author": "David Revoy",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Alice-in-Wonderland_by-David-Revoy_2010-07-21.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "45231989a97ef94ad60c",
+      "kind": "pixel",
+      "source": "OpenGameArt.org",
+      "url": "https://opengameart.org/content/cyberpunk-street-environment",
+      "title": "Cyberpunk Street Environment",
+      "author": "ansimuz",
+      "image": "https://opengameart.org/sites/default/files/cyberpunk-street.png",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+      "id": "a3796523f33bd78eb1db",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Alto%27s_Adventure_concept_art_-_03_Characters.png",
+      "title": "Alto's Adventure - Character Concept Art",
+      "author": "Ryan Cash of Snowman",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Alto%27s_Adventure_concept_art_-_03_Characters.png",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "3d7d5c96ac0162118465",
+      "kind": "other",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Environments-05-Ishtar-1.png",
+      "title": "Sintel - Ishtar, Environment Study 1",
+      "author": "David Revoy / Blender Foundation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Environments-05-Ishtar-1.png",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+      "id": "be48a31cfc615305eeee",
+      "kind": "pixel",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Njalila_Nasuta_Pixelart_By_%40samuuborealis_In_Bluesky.jpg",
+      "title": "Njalila Nasuta Pixelart",
+      "author": "SamuuBorealis",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Njalila_Nasuta_Pixelart_By_%40samuuborealis_In_Bluesky.jpg",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "b4999a194001c1fa6790",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1951.485",
+      "title": "Roman Ruins, Villa Pamfili",
+      "author": "Hubert Robert",
+      "image": "https://openaccess-cdn.clevelandart.org/1951.485/1951.485_web.jpg",
+      "width": 1236,
+      "height": 893,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "0bfcf564e356f77e86ba",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ryzom_environmental_concept_art_013.jpg",
+      "title": "Ryzom environmental concept art 013",
+      "author": "Ryzom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ryzom_environmental_concept_art_013.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "id": "93ff0c2b9da052e414ab",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03150",
+      "title": "Final Fantasy III \"Heroes of Dawn\"",
+      "image": "https://ocremix.org/files/images/games/nes/0/final-fantasy-iii-nes-title-74002.png",
+      "author": "PacificPoem"
+    },
+    {
+      "id": "625fee9b769cb205338d",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR05089",
+      "title": "Pokémon Blue Version \"Psy Want It That Way\"",
+      "image": "https://ocremix.org/files/images/games/gb/6/pokemon-blue-version-gb-title-77888.jpg",
+      "author": "Emunator, Biggoron, Ian Cowell, ZackParrish"
+    },
+    {
+      "id": "baa45b9c25beb1402bd5",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03154",
+      "title": "Mega Man 3 \"Harder Than Steel\"",
+      "image": "https://ocremix.org/files/images/games/nes/3/mega-man-3-nes-title-702.gif",
+      "author": "The Megas"
+    },
+    {
+      "id": "c7239c7035b07f8e9313",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03153",
+      "title": "Final Fantasy VI \"There's Nothing Like Flying\"",
+      "image": "https://ocremix.org/files/images/games/snes/6/final-fantasy-vi-snes-title-77586.png",
+      "author": "DDRKirby(ISQ)"
+    }
+  ]
+}
