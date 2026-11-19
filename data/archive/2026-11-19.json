@@ -1,0 +1,134 @@
+{
+  "date": "2026-11-19",
+  "cover": "fb50d8d61a530ddea173",
+  "items": [
+    {
+      "id": "79b37d6804659eb73025",
+      "kind": "pixel",
+      "source": "OpenGameArt.org",
+      "url": "https://opengameart.org/content/pixel-art-forest",
+      "title": "pixel art forest",
+      "author": "tosuto",
+      "image": "https://opengameart.org/sites/default/files/preview_785.png",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "4c47911050d33ce07e96",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:2023-03-30_Concept-art-for-a-fictive-video-game-Save-Point_by-David-Revoy.jpg",
+      "title": "Save Point - Concept Art for a Fictive Video Game",
+      "author": "David Revoy",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/2023-03-30_Concept-art-for-a-fictive-video-game-Save-Point_by-David-Revoy.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "fb50d8d61a530ddea173",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1940.815",
+      "title": "Nocturne:  Salute",
+      "author": "James McNeill Whistler",
+      "image": "https://openaccess-cdn.clevelandart.org/1940.815/1940.815_web.jpg",
+      "width": 1263,
+      "height": 881,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "faf5e81774f7b5dcf1bc",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ryzom_flora_concept_art_16.jpg",
+      "title": "Ryzom flora concept art 16",
+      "author": "Ryzom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ryzom_flora_concept_art_16.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "id": "3857574cbbcbdc4558db",
+      "kind": "pixel",
+      "source": "OpenGameArt.org",
+      "url": "https://opengameart.org/content/mountain-at-dusk-background",
+      "title": "Mountain at Dusk Background",
+      "author": "ansimuz",
+      "image": "https://opengameart.org/sites/default/files/parallax-mountain-animX1.gif",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "63b0989d1c619caebadb",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ryzom_environmental_concept_art_015.jpg",
+      "title": "Ryzom environmental concept art 015",
+      "author": "Ryzom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Ryzom_environmental_concept_art_015.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "id": "3987c9a4818d4032b7ad",
+      "kind": "pixel",
+      "source": "OpenGameArt.org",
+      "url": "https://opengameart.org/content/underwater-fantasy",
+      "title": "Underwater Fantasy",
+      "author": "ansimuz",
+      "image": "https://opengameart.org/sites/default/files/underwater-fantasy-preview.png",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+      "id": "dad0c990e211c2c64ae1",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1989.215",
+      "title": "Nocturne",
+      "author": "James McNeill Whistler",
+      "image": "https://openaccess-cdn.clevelandart.org/1989.215/1989.215_web.jpg",
+      "width": 1263,
+      "height": 863,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "d710a75f19714fefabc4",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03120",
+      "title": "Anodyne \"Dreamscapes\"",
+      "image": "https://ocremix.org/files/images/games/win/3/anodyne-win-title-78042.png",
+      "author": "Drakken"
+    },
+    {
+      "id": "44843e8bf1d7806bd019",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03124",
+      "title": "Rockman & Forte \"Monsieur Mega\"",
+      "image": "https://ocremix.org/files/images/games/snes/8/rockman-and-forte-snes-title-1598.gif",
+      "author": "RoBKTA"
+    },
+    {
+      "id": "1876a9cdec49885c47ae",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03122",
+      "title": "Ultra Street Fighter IV \"Girl from Another World\"",
+      "image": "https://ocremix.org/files/images/games/xb360/3/ultra-street-fighter-iv-xb360-title-78047.jpg",
+      "author": "Nabeel Ansari"
+    },
+    {
+      "id": "82b06ef45e04e1cf4578",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03123",
+      "title": "Demon's Crest \"Metropolis Pt. 3: Scenes from a Demon Realm\"",
+      "image": "https://ocremix.org/files/images/games/snes/2/demons-crest-snes-title-77032.jpg",
+      "author": "Megalixir"
+    }
+  ]
+}
