@@ -1,0 +1,112 @@
+{
+  "date": "2026-11-20",
+  "cover": "d5f2cee17652bd6ef2bd",
+  "items": [
+    {
+      "id": "b437d3b54f4db646ee6a",
+      "kind": "pixel",
+      "source": "OpenGameArt.org",
+      "url": "https://opengameart.org/content/urban-landscape",
+      "title": "Urban Landscape",
+      "author": "ansimuz",
+      "image": "https://opengameart.org/sites/default/files/urban-landscape-background-Preview.png",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "8508eaab09b51152cfa9",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ryzom_environmental_concept_art_019.jpg",
+      "title": "Ryzom environmental concept art 019",
+      "author": "Ryzom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Ryzom_environmental_concept_art_019.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "id": "d5f2cee17652bd6ef2bd",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1963.86",
+      "title": "Mountain Landscape with Fir Trees",
+      "author": "Ernst Ludwig Kirchner",
+      "image": "https://openaccess-cdn.clevelandart.org/1963.86/1963.86_web.jpg",
+      "width": 1263,
+      "height": 862,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "b0064f34d2414b270594",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ryzom_flora_concept_art_105.jpg",
+      "title": "Ryzom flora concept art 105",
+      "author": "Ryzom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Ryzom_flora_concept_art_105.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "id": "9ca7441dd11da2812bc2",
+      "kind": "pixel",
+      "source": "OpenGameArt.org",
+      "url": "https://opengameart.org/content/battle-background-hazy-hills-0",
+      "title": "Battle Background - Hazy Hills",
+      "image": "https://opengameart.org/sites/default/files/battle-background-sunny-hillsx4_1.png",
+      "author": "ansimuz",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+      "id": "9d24192c67aea918258d",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1955.36",
+      "title": "Landscape after Guo Zhongshu",
+      "author": "Bada Shanren",
+      "image": "https://openaccess-cdn.clevelandart.org/1955.36/1955.36_web.jpg",
+      "width": 386,
+      "height": 893,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "85e7e430a8318ba0a880",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03091",
+      "title": "Shadowrun \"Reborn\"",
+      "image": "https://ocremix.org/files/images/games/snes/9/shadowrun-snes-title-76254.jpg",
+      "author": "Marc-André Tremblay, Thunder Thouin"
+    },
+    {
+      "id": "de05dd87a90d6c547766",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03090",
+      "title": "Sonic the Hedgehog \"Ocean View\"",
+      "image": "https://ocremix.org/files/images/games/gen/2/sonic-the-hedgehog-gen-title-81229.png",
+      "author": "DCT, guitarman"
+    },
+    {
+      "id": "6a7a1c97221ec4771fc9",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03089",
+      "title": "Super Final Match Tennis \"5 Minutes of Glory\"",
+      "image": "https://ocremix.org/files/images/games/snes/4/super-final-match-tennis-snes-title-33105.gif",
+      "author": "Ivan Hakštok, jnWake, Wild_Cat, XPRTNovice"
+    },
+    {
+      "id": "96c827ea081b650113e6",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR03088",
+      "title": "EarthBound \"Nocturne for Paula\"",
+      "image": "https://ocremix.org/files/images/games/snes/1/earthbound-snes-title-80968.png",
+      "author": "Sebastien Skaf"
+    }
+  ]
+}
