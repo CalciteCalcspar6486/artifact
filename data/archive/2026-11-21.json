@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-21",
+  "cover": "82dbf443ebecb2e9eff1",
+  "items": [
+    {
+      "id": "f0fbcdf55d4a68b855da",
+      "kind": "pixel",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Landscape_pixel_art.png",
+      "title": "Landscape pixel art",
+      "author": "Fahmirayan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Landscape_pixel_art.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "6a798bac244e76e531c1",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ryzom_environmental_concept_art_024.jpg",
+      "title": "Ryzom environmental concept art 024",
+      "author": "Ryzom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Ryzom_environmental_concept_art_024.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "id": "990e4bd795092ff84832",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1969.52",
+      "title": "Storm in the Mountains",
+      "author": "Frederic Edwin Church",
+      "image": "https://openaccess-cdn.clevelandart.org/1969.52/1969.52_web.jpg",
+      "width": 742,
+      "height": 893,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "57ab58e5e2a6c50da168",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ryzom_flora_concept_art_24.jpg",
+      "title": "Ryzom flora concept art 24",
+      "author": "Ryzom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Ryzom_flora_concept_art_24.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "id": "82dbf443ebecb2e9eff1",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/2020.228",
+      "title": "Coffret with Woodcut of Saint Veronica's Vernicle",
+      "author": "Hans Burgkmair the Elder",
+      "image": "https://openaccess-cdn.clevelandart.org/2020.228/2020.228_web.jpg",
+      "width": 900,
+      "height": 582,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "5e73b1d0a58d90e09cb1",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1948.461",
+      "title": "A Storm Behind the Isle of Wight",
+      "author": "Julius Caesar Ibbetson",
+      "image": "https://openaccess-cdn.clevelandart.org/1948.461/1948.461_web.jpg",
+      "width": 1162,
+      "height": 893,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ]
+}
