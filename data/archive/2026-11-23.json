@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-23",
+  "cover": "79323b7c5fbb84b8c6e7",
+  "items": [
+    {
+      "id": "25dbdadf4504549e37a4",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ryzom_environmental_concept_art_021.jpg",
+      "title": "Ryzom environmental concept art 021",
+      "author": "Ryzom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Ryzom_environmental_concept_art_021.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "id": "79323b7c5fbb84b8c6e7",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1924.587",
+      "title": "Design for a Chalice (recto) Architectural Plan (verso)",
+      "author": "Luzio Romano",
+      "image": "https://openaccess-cdn.clevelandart.org/1924.587/1924.587_web.jpg",
+      "width": 900,
+      "height": 703,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "959dfde29cf3b936dc68",
+      "kind": "other",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Creature_ishtar-bird.png",
+      "title": "Sintel - Ishtar Bird",
+      "author": "David Revoy / Blender Foundation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Creature_ishtar-bird.png",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+      "id": "1b618237ab68f8139937",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/2011.193",
+      "title": "Cropley Ashley-Cooper (Later 6th Earl of Shaftesbury) with His Sister Mary Anne Ashley-Cooper, Later Lady Sturt of Crichel",
+      "author": "Daniel Gardner",
+      "image": "https://openaccess-cdn.clevelandart.org/2011.193/2011.193_web.jpg",
+      "width": 725,
+      "height": 893,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "8c547fa105f6047a7f99",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ryzom_environmental_concept_art_022.jpg",
+      "title": "Ryzom environmental concept art 022",
+      "author": "Ryzom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ryzom_environmental_concept_art_022.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "id": "f03c407a948db24f2488",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1939.670",
+      "title": "Various Sketches of the Madonna and Child (recto); Architectural Studies (verso) [partially visible on recto]",
+      "author": "Paolo Veronese",
+      "image": "https://openaccess-cdn.clevelandart.org/1939.670/1939.670_web.jpg",
+      "width": 900,
+      "height": 701,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "0a4a9d24c96328fc01b9",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1987.49",
+      "title": "The Open Window",
+      "author": "Edward Alexander Wadsworth",
+      "image": "https://openaccess-cdn.clevelandart.org/1987.49/1987.49_web.jpg",
+      "width": 638,
+      "height": 893,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "664da32caa0fadc63f67",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR02998",
+      "title": "Metroid Prime \"Hot Machine, Cold Surface\"",
+      "image": "https://ocremix.org/files/images/games/gcn/5/metroid-prime-gcn-title-81100.png",
+      "author": "Ben Prunty"
+    },
+    {
+      "id": "6e92293adb103ca0712e",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR02994",
+      "title": "Pokémon Mystery Dungeon: Red Rescue Team \"A Brief Winter Trek\"",
+      "image": "https://ocremix.org/files/images/games/gba/0/pokemon-mystery-dungeon-red-rescue-team-gba-title-26628.png",
+      "author": "C-Curt"
+    },
+    {
+      "id": "90c02ec3ef0966ef5d42",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR02997",
+      "title": "Deus Ex \"Neonature\"",
+      "image": "https://ocremix.org/files/images/games/win/4/deus-ex-win-title-77033.jpg",
+      "author": "nervous_testpilot"
+    },
+    {
+      "id": "8cf3ba63ef88f5a3aaf4",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR02995",
+      "title": "The Last of Us \"Sarah\"",
+      "image": "https://ocremix.org/files/images/games/ps3/3/last-of-us-ps3-title-77791.jpg",
+      "author": "nckmusic"
+    }
+  ]
+}
