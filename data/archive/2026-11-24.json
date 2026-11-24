@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-24",
+  "cover": "99219862fa59aaca2dd9",
+  "items": [
+    {
+      "id": "92330c6670f9eaa82717",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ryzom_environmental_concept_art_030.jpg",
+      "title": "Ryzom environmental concept art 030",
+      "author": "Ryzom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ryzom_environmental_concept_art_030.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "id": "99219862fa59aaca2dd9",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/2023.118",
+      "title": "Landscape with Tharandt Castle Ruins",
+      "author": "Adrian Zingg",
+      "image": "https://openaccess-cdn.clevelandart.org/2023.118/2023.118_web.jpg",
+      "width": 900,
+      "height": 643,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "3c175c48951d7ee6370f",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ryzom_flora_concept_art_14.jpg",
+      "title": "Ryzom flora concept art 14",
+      "author": "Ryzom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Ryzom_flora_concept_art_14.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "id": "edd88e491de7399fba97",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1993.143",
+      "title": "Geometric Abstraction",
+      "author": "Pim van Os",
+      "image": "https://openaccess-cdn.clevelandart.org/1993.143/1993.143_web.jpg",
+      "width": 675,
+      "height": 893,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "4b83eeb60b7d8aac96b6",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/2022.50",
+      "title": "Pastoral Landscape with Ruins",
+      "author": "Gerhardt Janssen",
+      "image": "https://openaccess-cdn.clevelandart.org/2022.50/2022.50_web.jpg",
+      "width": 900,
+      "height": 689,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "b908fee2b7ce9965e554",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR02966",
+      "title": "The Legend of Zelda: Ocarina of Time \"Hey, Listen\"",
+      "image": "https://ocremix.org/files/images/games/n64/7/legend-of-zelda-ocarina-of-time-n64-title-81067.png",
+      "author": "Mattias Häggström Gerdt"
+    },
+    {
+      "id": "27613ad9dd53356b4f2a",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR02963",
+      "title": "Chrono Trigger \"Kingdom of Magic\"",
+      "image": "https://ocremix.org/files/images/games/snes/6/chrono-trigger-snes-title-77585.png",
+      "author": "Argle"
+    },
+    {
+      "id": "b81ab7b439322f6d87be",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR02962",
+      "title": "Donkey Kong Country 3: Dixie Kong's Double Trouble! \"Wrinkly's Nightcap\"",
+      "image": "https://ocremix.org/files/images/games/snes/0/donkey-kong-country-3-dixie-kongs-double-trouble-snes-title-58047.jpg",
+      "author": "Doc Nano"
+    },
+    {
+      "id": "f1f581e8472874a4a5b7",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR05092",
+      "title": "Golden Sun \"Dream of Imil\"",
+      "image": "https://ocremix.org/files/images/games/gba/3/golden-sun-gba-title-73947.png",
+      "author": "RebeccaETripp, Gamer of the Winds, Woody/mC"
+    }
+  ]
+}
