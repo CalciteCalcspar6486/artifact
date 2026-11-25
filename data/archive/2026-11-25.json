@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-25",
+  "cover": "50f610d532e1d95c9dc4",
+  "items": [
+    {
+      "id": "c5a240ac1ba6b33fc5f1",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ryzom_environmental_concept_art_023.jpg",
+      "title": "Ryzom environmental concept art 023",
+      "author": "Ryzom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ryzom_environmental_concept_art_023.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "id": "6cb483edee93ea08c14c",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/2001.120",
+      "title": "Layered Peaks and Splashing Waterfall: Portrait of Hua Yan as a Young Man",
+      "author": "Hua Yan, Wei Shijie",
+      "image": "https://openaccess-cdn.clevelandart.org/2001.120/2001.120_web.jpg",
+      "width": 380,
+      "height": 893,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "b93da05dd1eb238f562a",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ryzom_flora_concept_art_28.jpg",
+      "title": "Ryzom flora concept art 28",
+      "author": "Ryzom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Ryzom_flora_concept_art_28.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "id": "50f610d532e1d95c9dc4",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1916.1164",
+      "title": "Poem by Emperor Tenchi, from the series One Hundred Poems by One Hundred Poets Explained by the Nurse",
+      "author": "Katsushika Hokusai",
+      "image": "https://openaccess-cdn.clevelandart.org/1916.1164/1916.1164_web.jpg",
+      "width": 900,
+      "height": 601,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "2721023279e0d0af81a2",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1922.454",
+      "title": "Nocturne, Salute",
+      "author": "James McNeill Whistler",
+      "image": "https://openaccess-cdn.clevelandart.org/1922.454/1922.454_web.jpg",
+      "width": 1263,
+      "height": 874,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "44b21788f147352e4e59",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR02932",
+      "title": "Akumajo Dracula X: Rondo of Blood \"Phantasmal Hellfire\"",
+      "image": "https://ocremix.org/files/images/games/tgcd/2/dracula-x-rondo-of-blood-tgcd-title-58350.jpg",
+      "author": "timaeus222"
+    },
+    {
+      "id": "c923520dbcec7619cb86",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR02931",
+      "title": "Half-Life 2 \"I Tried\"",
+      "image": "https://ocremix.org/files/images/games/win/7/half-life-2-win-title-77255.jpg",
+      "author": "Redg"
+    },
+    {
+      "id": "8f9341b424dd189f7cad",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR02930",
+      "title": "Mega Man X6 \"Shield of Legend\"",
+      "image": "https://ocremix.org/files/images/games/ps1/5/mega-man-x6-ps1-title-79258.png",
+      "author": "Omni-Psyence, Pete Lepley"
+    },
+    {
+      "id": "3873618e43456aa73b8e",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR02933",
+      "title": "Final Fantasy IV \"La Fin de Zeromus\"",
+      "image": "https://ocremix.org/files/images/games/snes/1/final-fantasy-iv-snes-title-80962.png",
+      "author": "Rockos"
+    }
+  ]
+}
