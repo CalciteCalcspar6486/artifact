@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-28",
+  "cover": "afded77a21ed187fe5ba",
+  "items": [
+    {
+      "id": "fd769a970d78eca3f979",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ryzom_environmental_concept_art_025.jpg",
+      "title": "Ryzom environmental concept art 025",
+      "author": "Ryzom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ryzom_environmental_concept_art_025.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "id": "afded77a21ed187fe5ba",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/2002.45",
+      "title": "Sand Dunes, Carson Desert, Nevada",
+      "author": "Timothy H. O'Sullivan",
+      "image": "https://openaccess-cdn.clevelandart.org/2002.45/2002.45_web.jpg",
+      "width": 1207,
+      "height": 893,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "b07bc939779a9fa85577",
+      "kind": "game",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ryzom_flora_concept_art_29.jpg",
+      "title": "Ryzom flora concept art 29",
+      "author": "Ryzom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ryzom_flora_concept_art_29.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "id": "b5f39231de952a290069",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1940.1129",
+      "title": "Fantasy",
+      "author": "Paul Hüet",
+      "image": "https://openaccess-cdn.clevelandart.org/1940.1129/1940.1129_web.jpg",
+      "width": 1134,
+      "height": 893,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "3b9054f303c1dacc1891",
+      "kind": "other",
+      "source": "Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1920.612",
+      "title": "Seascape",
+      "author": "Auguste Louis Lepère",
+      "image": "https://openaccess-cdn.clevelandart.org/1920.612/1920.612_web.jpg",
+      "width": 1144,
+      "height": 893,
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "87ee6e6df4fb77b22eb6",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR02836",
+      "title": "Final Fantasy VI \"Experiments of a Fiend\"",
+      "image": "https://ocremix.org/files/images/games/snes/6/final-fantasy-vi-snes-title-77586.png",
+      "author": "DjjD"
+    },
+    {
+      "id": "7e307b0c9149eece9958",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR02833",
+      "title": "Mega Man Battle Network 3: Blue Version \"Network Is Searching\"",
+      "image": "https://ocremix.org/files/images/games/gba/3/mega-man-battle-network-3-blue-version-gba-title-77680.jpg",
+      "author": "Rukunetsu"
+    },
+    {
+      "id": "412a0254c6cbe2c5fdfd",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR02837",
+      "title": "Final Fantasy X \"Al Bhed Ec Faent\"",
+      "image": "https://ocremix.org/files/images/games/ps2/5/final-fantasy-x-ps2-title-81124.png",
+      "author": "Theory of N"
+    },
+    {
+      "id": "ff29f0c69825890ac2fe",
+      "kind": "music",
+      "source": "OC ReMix",
+      "url": "https://ocremix.org/remix/OCR02835",
+      "title": "Chrono Trigger \"Echoes of the Forest\"",
+      "image": "https://ocremix.org/files/images/games/snes/6/chrono-trigger-snes-title-77585.png",
+      "author": "AeroZ"
+    }
+  ]
+}
